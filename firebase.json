@@ -8,8 +8,8 @@
     ],
     "rewrites": [
       {
-	"source": "/fdl/**",
-        "dynamicLinks": true	
+        "source": "/fdl/**",
+        "dynamicLinks": true
       },
       {
         "source": "**",
